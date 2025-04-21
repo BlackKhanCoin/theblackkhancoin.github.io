@@ -117,7 +117,7 @@ The Descendant of Yakub and Napoleon pure royalty runs in this coin</p>
     <p>Follow us on socials to stay updated or join the community.</p>
     <div class="socials">
       <a href="https://twitter.com/" target="_blank">Twitter</a> |
-      <a href="https://t.me/" target="_blank">Telegram</a> |
+      <a href="https://t.me/+waXlqJ2L3sAwZDlk" target="_blank">Telegram</a> |
       <a href="mailto:info@blackkhan.io">Email</a>
     </div>
   </section>
